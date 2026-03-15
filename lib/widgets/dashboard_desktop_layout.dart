@@ -14,7 +14,7 @@ class DashboardDesktopLayout extends StatelessWidget {
         Expanded(child: CustomDrawer()),
         SizedBox(width: 32),
         Expanded(
-          flex: 3,
+          flex: 4,
           child: CustomScrollView(
             slivers: [
               SliverFillRemaining(

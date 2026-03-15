@@ -48,10 +48,11 @@ class QuickInvoiceForm extends StatelessWidget {
               child: CustomButton(
                 textColor: Color(0xFF4DB7F2),
                 backgroundColor: Colors.transparent,
+                text: "Add more details",
               ),
             ),
             SizedBox(width: 24),
-            Expanded(child: CustomButton()),
+            Expanded(child: CustomButton(text: 'Send Money')),
           ],
         ),
       ],
