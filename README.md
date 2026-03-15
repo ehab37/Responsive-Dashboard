@@ -2,7 +2,8 @@
 
 A modern, highly responsive dashboard application built with Flutter, designed to provide a seamless user experience across mobile, tablet, and desktop devices.
 
-![Responsive Dashboard.png](../../%D9%85%D9%87%D9%85/ui/Responsive%20Dashboard.png)
+![alt text](https://github.com/ehab37/Responsive-Dashboard/blob/main/assets/images/responsive_dashboard.png?raw=true)
+
 
 ## 🚀 Key Features
 
